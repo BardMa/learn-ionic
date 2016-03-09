@@ -34,3 +34,11 @@ $ ionic platform add ios
 $ ionic build ios
 $ ionic emulate ios
 ```
+##效果截图
+首页
+
+<img src="http://7vznr4.com1.z0.glb.clouddn.com/444AF03B-C4C1-4420-B1E8-79512A07FB5C.png" width="200"/>
+
+搜索页
+
+<img src="http://7vznr4.com1.z0.glb.clouddn.com/8E1B7061-432B-4046-90A7-468E44D6A420.png" width="200"/>
